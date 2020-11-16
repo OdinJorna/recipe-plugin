@@ -1,7 +1,7 @@
 # pluginrecipe
 
 
-This plugin is a plugin that adds a way to input, store and display recipes in your Tiddlywiki. All the information of the recipe is stored in user-fields, so the template is higly customizable without the need to change every recipe.
+This plugin is a plugin that adds a way to input, store and display recipes in your Tiddlywiki. All the information of the recipe is stored in user-fields, so the template is higly customizable without the need to change every recipe. A demo and download are available at: https://odinjorna.github.io/pluginrecipe/
 
 ## Features
 * A input form to add recipes
